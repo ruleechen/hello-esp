@@ -2,6 +2,7 @@
 #include <WiFi.h>
 #include <BluetoothSerial.h>
 #include <WebServer.h>
+#include <HAP.h>
 
 void ledOn() {
   digitalWrite(LED_BUILTIN, LOW);
