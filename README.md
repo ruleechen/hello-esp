@@ -1,4 +1,4 @@
-# Hello ESP32
+# Try ESP32
 Test project for ESP32
 
 ### Development Tools
